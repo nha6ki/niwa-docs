@@ -3,18 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to niwa-docs's documentation!
-=====================================
+
+Home
+=================
+
+日々学んだことの理解を深めるために記録しています．
+
+.. warning::
+   理解が及んでいない部分には間違いが含まれている場合があります．
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+   :caption: Research
 
+   research/references
 
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Robot
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   robot/temi

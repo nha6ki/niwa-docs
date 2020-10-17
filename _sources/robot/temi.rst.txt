@@ -1,0 +1,202 @@
+temi
+=================
+
+- temiとは，テレプレゼンス機能やAIアシスタンス機能を持った自律走行するパーソナルアシスタントロボットである [#f1]_．
+- temi USA inc.が開発しておりNew York, Shenzhen, Singapore, Tel Avivの4箇所にオフィスがある [#f2]_．
+- 創設者のYossi WolfはTel Aviv University出身で，前職はイスラエルの軍事用ロボット企業Roboteam [#f3]_ に勤めていた [#f4]_．
+
+.. image:: https://1ufbh52bd9hr2gjw2p1tgwng-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/blackfront.png
+
+----
+
+特徴
+--------------
+
+AI Assistant
+^^^^^^^^^^^^^^^^^
+
+- 対話型の音声操作によって情報の検索やIoT連携した家電の操作，ビデオ通話，メディア再生などができる
+- Alexaと連携が可能 [#f5]_
+    - ショッピングリストへアイテムの追加，接続された端末の管理，食事の注文，タクシーの予約，ニュース，天気予報
+    - スマートデバイスへの接続：Philips Hue Lighting，NEST サーモスタット，Amazon Fire TV，Axis Gear Shades，Eufy アプライアンス，Lifx 電球，Samsung Smart Things Hub
+
+
+Video Calls & Cameras
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- ユーザー追従機能と完全自律ナビゲーション機能によるハンズフリーなビデオ通話
+- テレプレゼンス
+- 写真撮影
+
+ROBOX Navigation System
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+あらかじめ登録された地点まで，障害物を避けながら案内することができる．
+
+- LIDARによる3Dマッピング&ナビゲーション
+- ユーザーの検知と追跡
+- 障害物回避
+- 経路計画
+
+----
+
+仕様
+--------------
+
+サイズと重量 [#f6]_
+^^^^^^^^^^^^^^^^^^^^^
+
+- サイズ：高さ100cm × 幅35cm × 奥行き45cm
+- 重さ：12kg
+
+構成部品 [#f5]_
+^^^^^^^^^^^^^^^^^
+
+.. image:: temi_components.png
+
+ディスプレイ
+^^^^^^^^^^^^^^^^^
+
+- 10.1インチHD LCDスクリーン
+- マルチタッチ
+
+マイク
+^^^^^^^^^^^^^^^^^
+
+- 無指向性デジタルマイクx4
+
+オーディオ [#f6]_
+^^^^^^^^^^^^^^^^^
+
+.. image:: https://1ufbh52bd9hr2gjw2p1tgwng-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Audio-768x635.jpg
+
+カメラ
+^^^^^^^^^^^^^^^^^
+
+- 13 MP高解像度カメラ
+    - 1080P 30FPS，画角60度
+- ワイドカメラ
+    - 1080P 30FPS，画角95度
+- TOF デプスカメラ
+    - 30FPS，最大5m，画角90度
+
+CPU
+^^^^^^^^^^^^^^^^^
+
+- CPU1（頭部ディスプレイ）
+    - ARM Quad core
+    - OS : Android
+- CPU2（モビリティ）
+    - ARM Hexa core
+    - OS : Linux
+
+電源
+^^^^^^^^^^^^^^^^^
+
+- 最大8時間稼働
+
+モビリティ
+^^^^^^^^^^^^^^^^^
+
+- 移動速度 : 最大 1m/sec
+
+ワイヤレス充電トレイ
+^^^^^^^^^^^^^^^^^^^^^^
+
+- Qiワイヤレス充電に対応
+- 耐荷重 : 3kg
+
+Follow mode [#f5]_
+^^^^^^^^^^^^^^^^^^^^^^
+
+- 顔と体を認識してユーザーを追従する
+
+mobile app [#f5]_
+^^^^^^^^^^^^^^^^^^^^^^
+
+- 遠隔地から操作
+- 連作先の同期
+- ビデオ通話
+- 写真，最近使用した検索やサービスの表示
+- ホームスクリーンのカスタマイズ
+- アクティビティ・ストリーム
+- Alexa Mobile アプリ
+
+Application
+^^^^^^^^^^^^^^^^^^^^^^
+
+- Built in : 天気，YouTube，カメラ（静止画，動画，GIF），ビデオ通話，Bluetooth, iHeartラジオ，Yelp，Knowledge（英語版のみ） [#f5]_
+- temi store [#f7]_
+    - 企業や個人がアプリを開発・公開している
+    - `Auto Temp <https://market.robotemi.com/details/auto-temp-2/>`__ ：体温計測
+    - `Tic Tac Toe <https://market.robotemi.com/details/tic-tac-toe/>`__ ：三目並べ
+
+temi center [#f8]_
+^^^^^^^^^^^^^^^^^^^^^^
+
+複数台のロボットを同時に操作したいという要望から作られたデスクトッププラットフォーム．Webpageの言語が米国と中国しか対応していないため，日本語ではまだサポートされていないかも．
+
+- Control temi remotely
+- Sequences
+- Map Configuration
+- Greet Mode
+- Home Screen
+- Contacts
+
+SDK
+^^^^^^^^^^^^^^^^^^^^^^
+
+- Android 6.0（頭部ディスプレイ）のプラットフォームでKotlinかJavaによるアプリケーションの開発が可能．
+- GitHubリポジトリに `ドキュメント <https://github.com/robotemi/sdk/wiki>`__ が公開されている．
+    - 機能ごとにコンポーネントやメソッドの説明が書かれている．
+
+開発方法
+"""""""""""
+
+- Maven（Java用のソフトウェアプロジェクト管理ツール）を使って，AAR（Android Archive Resource）をダウンロードする．
+- ADB（Android Debug Bridge）をダウンロードして設定する．
+- AndroidManifest.xml：開発したアプリケーションをtemi OSとリンクする．
+- MainActivity.java：メソッドを定義する．temi's top barにショートカットを表示できる．
+    - https://github.com/robotemi/sdk/tree/master/sample/src/main/java/com/robotemi/sdk/sample
+
+----
+
+研究事例
+--------------
+
+ToDo
+
+----
+
+活用事例
+--------------
+
+- `BBC, ``How robots have joined the battle against coronavirus'', 2020. <https://www.bbc.com/news/av/technology-52105478/how-robots-have-joined-the-battle-against-coronavirus?fbclid=IwAR08s3L2Yv4jwbb-8wKzJrgpo1qjlBhoH6k6UWwNopsh_uF5jIyH53t29Jk>`__
+- `NoCamels, ``Israeli Robot Assistant Deployed In Asia To Help Minimize Coronavirus Spread'', 2020. <https://nocamels.com/2020/03/personal-ai-robot-israel-temi-robotemi-coronavirus/>`__
+    - taking temperatures remotely, helping with hand washing, Non-Hospital Care (Delivery to quarantined, Patient and family socializing, Off-site testing and identification, Testing and care in nursing homes) [#f9]_
+
+----
+
+製品・サービス事例
+-------------------
+
+- `HISグループの株式会社 hapi-robo stによるtemiの販売開始の発表 <https://robotstart.info/2019/10/17/hapi-temi-start.html>`__
+    - 商業施設での活用が予想される．（賛同企業：NTTファシリティーズ、⼤塚商会、コトバデザイン、⼤和ハウス⼯業、蔦屋家電エンタープライズ、テクムズ、パルコ、ミライト・エックス、モノプラス）
+- `香港のベンチャー企業 Block Manic によるアプリケーション開発サービス <https://www.blockmanic.com/temi-robot>`__
+    - GitHubにリポジトリ（https://github.com/cyrsis/flutter_temi）が存在する．
+- `ドイツの企業 Humanizing RoboticsによるNavigationとコンテンツを管理を関するソフトウェア <https://www.humanizing.com/temi-robot/>`__
+
+
+----
+
+.. rubric:: Footnotes
+
+.. [#f1] https://shop.robotemi.jp/about
+.. [#f2] https://www.robotemi.com/about/
+.. [#f3] http://robo-team.com/
+.. [#f4] https://il.linkedin.com/in/yossiwolf
+.. [#f5] `temi User Manual (Updated 04.05.2020) <https://www.robotemi.jp/wp-content/uploads/2020/05/temi-User-Manual-04052020.pdf>`__
+.. [#f6] https://www.robotemi.com/specs/
+.. [#f7] https://market.robotemi.com/
+.. [#f8] https://center.robotemi.com/
+.. [#f9] http://roboticsforinfectiousdiseases.org/how-robots-are-being-used.html
