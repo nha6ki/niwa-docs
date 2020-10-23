@@ -68,6 +68,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `東京大学で学んだ、卒論研究の進め方 - 石井遼介 <https://ryosukeishii.hatenablog.com/entry/20090330/1238422598>`__
 -  `東大で学んだ卒業論文の書き方 - 中田亨 <http://fwds.hatenadiary.jp/entry/20050703/1120380314>`__
 -  `何をやったらいいかを迷う4年生のためのロボット分野の研究の進め方 - 株式会社アールティ <https://www.rt-shop.jp/blog/wp-content/uploads/2020/08/fe5ef1f2ccfb4c5c1afb922270a0c920.pdf>`__
+-  `[研究室運営] 卒論・修論はチェックシートで目標設定と客観的な相互チェック - 中村聡史 <https://note.com/nkmr/n/nde3a352435e1>`__
 - 理系のための卒業論文術 - 中田亨 [`Amazon <https://www.amazon.co.jp/dp/406257666X/ref=cm_sw_r_tw_dp_U_x_kEF0EbPSHDRDK>`__]
 
 図
@@ -117,6 +118,7 @@ Web上で閲覧できる資料などのまとめ.
 その他
 ------
 
+-  `研究者として生きていくコツ - Hiroshi Watanabe <https://gist.github.com/kaityo256/f56c4998f88eefd82ac5e07d16eda9d3>`__
 -  独創はひらめかない - 金出武雄 [`Amazon <https://www.amazon.co.jp/dp/4532318416/ref=cm_sw_r_tw_dp_U_x_OsF0EbEEDGZET>`__]
 -  新 企業の研究者をめざす皆さんへ - 丸山宏 [`Amazon <https://www.amazon.co.jp/dp/4764906066/ref=cm_sw_r_tw_dp_U_x_AzF0EbQS3FCMX>`__]
 -  博士号だけでは不十分! - ピーター・J・ファイベルマン [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]
