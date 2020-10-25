@@ -119,6 +119,9 @@ Web上で閲覧できる資料などのまとめ.
 ------
 
 -  `研究者として生きていくコツ - Hiroshi Watanabe <https://gist.github.com/kaityo256/f56c4998f88eefd82ac5e07d16eda9d3>`__
+-  `科研費の話 - Hiroshi Watanabe <https://gist.github.com/kaityo256/66a9e52303093df21773817ffd583146>`__
+-  `放置系ブラック研究室に配属を希望される方々への助言 -  <https://anond.hatelabo.jp/20171023211843>`__
+-  `学術の価値 - 丸山宏 <https://japan.cnet.com/blog/maruyama/2020/10/23/entry_30023024/>`__
 -  独創はひらめかない - 金出武雄 [`Amazon <https://www.amazon.co.jp/dp/4532318416/ref=cm_sw_r_tw_dp_U_x_OsF0EbEEDGZET>`__]
 -  新 企業の研究者をめざす皆さんへ - 丸山宏 [`Amazon <https://www.amazon.co.jp/dp/4764906066/ref=cm_sw_r_tw_dp_U_x_AzF0EbQS3FCMX>`__]
 -  博士号だけでは不十分! - ピーター・J・ファイベルマン [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]
