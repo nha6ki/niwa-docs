@@ -61,6 +61,7 @@ Web上で閲覧できる資料などのまとめ.
 - 数学文章作法 基礎編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/448009525X/ref=cm_sw_r_tw_dp_U_x_hyF0Eb9C0N39A>`__][`Summary <https://github.com/nha6ki/Summaries/issues/2>`__]
 - 数学文章作法 応用編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/4480095268/ref=cm_sw_r_tw_dp_U_x_YyF0EbKJ01XC8>`__][`Summary <https://github.com/nha6ki/Summaries/issues/3>`__]
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
+- 図解でわかる! 理工系のためのよい文章の書き方 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
 
 卒業論文
 ^^^^^^^^

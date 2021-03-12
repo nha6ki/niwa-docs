@@ -18,10 +18,3 @@ Home
    :caption: Research
 
    research/references
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Robot
-
-   robot/temi
