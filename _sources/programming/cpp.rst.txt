@@ -1,0 +1,7 @@
+C++
+=================
+
+Style Guide
+--------------
+
+-  `Google (ja) <https://ttsuki.github.io/styleguide/cppguide.ja.html>`__

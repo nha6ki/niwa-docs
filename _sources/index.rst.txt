@@ -15,6 +15,13 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Programming
+
+   programming/cpp
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Research
 
    research/references
