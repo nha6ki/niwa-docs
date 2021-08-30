@@ -1,0 +1,9 @@
+Regular Expression
+=================
+
+Syntax
+--------------
+
+- BRE (Basic Regular Expressions)
+- ERE (Extended Regular Expression)
+- PCRE (Perl Compatible Regular Expressions)

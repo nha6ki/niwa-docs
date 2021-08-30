@@ -1,0 +1,12 @@
+Text Editor
+=================
+
+VSCode
+--------------
+
+- Installed Extensions: `nha6ki/vscode_installed_extensions <https://github.com/nha6ki/vscode_installed_extensions>`_
+
+Vim
+--------------
+
+- `nha6ki/.vimrc <https://gist.github.com/nha6ki/11f8245c640348fa9e1249b721c428f6>`_

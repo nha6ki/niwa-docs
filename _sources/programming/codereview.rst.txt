@@ -1,0 +1,4 @@
+Code Review
+=================
+
+- `Google Engineering Practices Documentation (ja) <https://fujiharuka.github.io/google-eng-practices-ja/>`_

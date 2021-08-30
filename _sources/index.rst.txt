@@ -17,7 +17,11 @@ Home
    :glob:
    :caption: Programming
 
+   programming/python
    programming/cpp
+   programming/regex
+   programming/codereview
+   programming/texteditor
 
 .. toctree::
    :maxdepth: 2
