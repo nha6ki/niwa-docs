@@ -15,10 +15,18 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Intelligent Informatics
+
+   intelligentinformatics/machinelearning
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Programming
 
    programming/python
    programming/cpp
+   programming/web
    programming/regex
    programming/codereview
    programming/texteditor

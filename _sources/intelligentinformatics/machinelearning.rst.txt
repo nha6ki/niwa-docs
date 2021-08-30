@@ -1,0 +1,9 @@
+Machine Learning
+=================
+
+- `Machine Learning Glossary  |  Google Developers <https://developers.google.com/machine-learning/glossary>`_
+- `Introduction to Machine Learning  |  Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course/ml-intro>`_
+
+- `鈴木 大慈, 過学習と正則化, 応用数理, 2018, 28 巻, 2 号, p. 28-33, 公開日 2018/09/30 <https://doi.org/10.11540/bjsiam.28.2_28>`_
+- `Differences between L1 and L2 as Loss Function and Regularization <http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/>`_
+- `regression - Multicollinearity and predictive performance - Cross Validated <https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance>`_
