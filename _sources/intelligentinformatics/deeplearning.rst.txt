@@ -1,0 +1,17 @@
+Deep Learning
+=================
+
+GitHub
+--------------
+
+- `Zhang, A., Lipton, Z., Li, M., & Smola, A. (2021). Dive into Deep Learning. arXiv preprint arXiv:2106.11342. <https://d2l.ai/index.html>`_
+- `Chollet, F. (2017). Deep Learning with Python. Manning. <https://github.com/fchollet/deep-learning-with-python-notebooks>`_
+- `Foster, D. (2019). Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. O'Reilly Media. <https://github.com/davidADSP/GDL_code>`_
+- `Patel, A. (2019). Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data. O'Reilly Media. <https://github.com/aapatel09/handson-unsupervised-learning>`_
+
+Book
+--------------
+
+- `Ian Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning. MIT Press. <https://www.deeplearningbook.org/>`_
+
+

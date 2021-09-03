@@ -1,0 +1,19 @@
+Cloud computing
+=================
+
+
+Amazon Web Services (AWS)
+--------------
+
+- `AWS 用語集 - AWS 全般のリファレンス | Amazon Web Services <https://docs.aws.amazon.com/ja_jp/general/latest/gr/glos-chap.html>`_
+
+Tutorial
+^^^^^^^^
+
+- `コードで学ぶAWS入門 | 真野 智之 <https://tomomano.github.io/learn-aws-by-coding>`_
+- `自宅で学ぼう！AWS 初学者向けの勉強方法 6ステップ！ | Amazon Web Services ブログ <https://aws.amazon.com/jp/blogs/news/aws-beginner-home-learning/>`_
+
+Web Page
+^^^^^^^^
+
+- `Canalys Newsroom- Global cloud services market Q1 2021 <https://www.canalys.com/newsroom/global-cloud-market-Q121>`_

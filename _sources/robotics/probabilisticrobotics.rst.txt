@@ -1,0 +1,8 @@
+Probabilistic Robotics
+=================
+
+GitHub
+--------------
+
+- `上田隆一. (2019). 詳解 確率ロボティクス Pythonによる基礎アルゴリズムの実装. <https://github.com/ryuichiueda/LNPR_BOOK_CODES>`_
+

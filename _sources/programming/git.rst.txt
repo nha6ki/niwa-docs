@@ -1,0 +1,7 @@
+Git
+=================
+
+GitHub
+--------------
+
+- `RomuloOliveira/commit-messages-guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_ja-JP.md>`_

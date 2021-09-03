@@ -7,7 +7,7 @@
 Home
 =================
 
-日々学んだことの理解を深めるために記録しています．
+日々学んだことの理解を深めるために記録しています．書籍や論文，Webページなどのリンク集でもあります．
 
 .. warning::
    理解が及んでいない部分には間違いが含まれている場合があります．
@@ -15,9 +15,17 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Information Technology
+
+   informationtechnology/algorithmsanddatastructures
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Intelligent Informatics
 
    intelligentinformatics/machinelearning
+   intelligentinformatics/deeplearning
 
 .. toctree::
    :maxdepth: 2
@@ -28,8 +36,31 @@ Home
    programming/cpp
    programming/web
    programming/regex
+   programming/compiler
+   programming/git
    programming/codereview
    programming/texteditor
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Computer System
+
+   computersystem/cloudcomputing
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Mathematics
+
+   mathematics/bayesianstatistics
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Robotics
+
+   robotics/
 
 .. toctree::
    :maxdepth: 2

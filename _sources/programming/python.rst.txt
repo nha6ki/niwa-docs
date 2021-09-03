@@ -3,6 +3,11 @@ Python
 
 Pythonは豊富な標準ライブラリが付属していることから“Batteries Included”と呼ばれている [#f1]_ ．
 
+GitHub
+--------------
+
+- `Beazley, D. (2006). Python Essential Reference (3rd Edition) (Developer's Library). Sams. <https://github.com/PacktPublishing/Expert-Python-Programming-Third-Edition>`_
+
 Style Guide
 --------------
 

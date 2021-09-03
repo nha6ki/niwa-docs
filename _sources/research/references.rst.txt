@@ -58,8 +58,8 @@ Web上で閲覧できる資料などのまとめ.
 - なぜあなたは論文が書けないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4779217245/ref=cm_sw_r_tw_dp_U_x_0fF0Eb88XFJZ6>`__]
 - 日本語の作文技術 - 本多勝一 [`Amazon <https://www.amazon.co.jp/dp/4022618450/ref=cm_sw_r_tw_dp_U_x_8wF0EbC5TSF0Y>`__]
 - 理科系の作文技術 - 木下是雄 [`Amazon <https://www.amazon.co.jp/dp/4121006240/ref=cm_sw_r_tw_dp_U_x_4vF0EbRKE1EX2>`__]
-- 数学文章作法 基礎編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/448009525X/ref=cm_sw_r_tw_dp_U_x_hyF0Eb9C0N39A>`__][`Summary <https://github.com/nha6ki/Summaries/issues/2>`__]
-- 数学文章作法 応用編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/4480095268/ref=cm_sw_r_tw_dp_U_x_YyF0EbKJ01XC8>`__][`Summary <https://github.com/nha6ki/Summaries/issues/3>`__]
+- 数学文章作法 基礎編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/448009525X/ref=cm_sw_r_tw_dp_U_x_hyF0Eb9C0N39A>`__]
+- 数学文章作法 応用編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/4480095268/ref=cm_sw_r_tw_dp_U_x_YyF0EbKJ01XC8>`__]
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
 - 図解でわかる! 理工系のためのよい文章の書き方 - 福地健太郎 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
 
@@ -110,9 +110,9 @@ Web上で閲覧できる資料などのまとめ.
 -  `博士課程を経験したことのメリット - 尾崎隆 <https://jp.quora.com/kiso-gakumon-nado-ouyou-men-to-no-setten-no-sukunai-gakumon-no-hakase-katei-wo-keiken-shita-nochini-ippan-kigyou-ni-shuushoku-suru-baai-kigyou-shuushoku-nochi-no-kiyaria-niokeru-hakase-katei-wo-keiken-shita-koto-no/answers/118261729?ch=2&srid=k8yVK>`__
 -  `大学院教育で何が出来ると人が育ったと言えるのか - 安宅和人 <https://kaz-ataka.hatenablog.com/entry/20081028/1225126542>`__
 -  `大学院で伸びる人の考察 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-5.html>`__
--  `学生さんの能力の把握 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-3.html>`__ [`Summary <https://github.com/nha6ki/Summaries/issues/4>`__]
--  `研究指導に困る人への対策 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-4.html>`__ [`Summary <https://github.com/nha6ki/Summaries/issues/5>`__]
--  `強い松尾ぐみのために：研究の指導とステップアップ - 松尾豊 <http://ymatsuo.com/old2/matsuogumi_how_to_research.htm>`__ [`Summary <https://github.com/nha6ki/Summaries/issues/6>`__]
+-  `学生さんの能力の把握 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-3.html>`__ 
+-  `研究指導に困る人への対策 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-4.html>`__ 
+-  `強い松尾ぐみのために：研究の指導とステップアップ - 松尾豊 <http://ymatsuo.com/old2/matsuogumi_how_to_research.htm>`__ 
 -  `CS PhD --help <https://phdadvice.carrd.co/>`__
 - 博士号のとり方 - エステール・M・フィリップス [`Amazon <https://www.amazon.co.jp/dp/4990455509/ref=cm_sw_r_tw_dp_U_x_QkF0EbKTJ3XNN>`__]
 
