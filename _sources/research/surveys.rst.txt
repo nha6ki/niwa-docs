@@ -1,0 +1,6 @@
+Surveys
+=================
+
+読んだ論文の理解を深めるために，このリポジトリに記録しています．
+
+- `nha6ki/OpenSurveys <https://github.com/nha6ki/OpenSurveys/issues>`_

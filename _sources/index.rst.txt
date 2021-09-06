@@ -67,4 +67,5 @@ Home
    :glob:
    :caption: Research
 
+   research/surveys
    research/references
