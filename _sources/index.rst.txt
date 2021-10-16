@@ -15,6 +15,14 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Research
+
+   research/surveys
+   research/references
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Information Technology
 
    informationtechnology/algorithmsanddatastructures
@@ -65,7 +73,6 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Research
+   :caption: Learn
 
-   research/surveys
-   research/references
+   learn/website

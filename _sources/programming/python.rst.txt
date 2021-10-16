@@ -6,7 +6,7 @@ Pythonは豊富な標準ライブラリが付属していることから“Batte
 GitHub
 --------------
 
-- `Beazley, D. (2006). Python Essential Reference (3rd Edition) (Developer's Library). Sams. <https://github.com/PacktPublishing/Expert-Python-Programming-Third-Edition>`_
+- `Jaworski, M., & Ziadé, T. (2016). Expert Python Programming. Packt Publishing Ltd. <https://github.com/PacktPublishing/Expert-Python-Programming-Third-Edition>`_
 
 Style Guide
 --------------

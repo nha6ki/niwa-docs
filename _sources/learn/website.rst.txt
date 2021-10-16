@@ -1,0 +1,41 @@
+Website
+=================
+
+MOOC
+--------------
+
+-  `Cousera <https://www.coursera.org/>`__
+-  `Udacity <https://www.udacity.com/>`__
+-  `edX <https://www.edx.org/>`__
+-  `Udemy <https://www.udemy.com/>`__
+-  `JMOOC <https://www.jmooc.jp/>`__
+
+OCW
+--------------
+
+-  `MIT OCW <https://ocw.mit.edu/>`__
+-  `UTokyo OCW <https://ocw.u-tokyo.ac.jp/?interface_language=ja>`__
+-  `UTokyo OCW x <https://ocwx.ocw.u-tokyo.ac.jp/>`__
+-  `KYOTO UNIVERSITY OCW <https://ocw.kyoto-u.ac.jp/>`__
+-  `TOKYO TECH OCW <http://www.ocw.titech.ac.jp/>`__
+-  `HOKKAIDO UNIVERSITY OCW <https://ocw.hokudai.ac.jp/>`__
+-  `Nagoya  University OCW <https://ocw.nagoya-u.jp/>`__
+-  `Waseda Course Channel <http://course-channel.waseda.jp/>`__
+-  `TSUKUBA OCW <https://ocw.tsukuba.ac.jp/>`__
+-  `ICU OCW <https://ocw.info.icu.ac.jp/>`__
+-  `放送大学 <https://v.ouj.ac.jp/view/ouj/#/navi/home>`__
+
+Others
+--------------
+
+-  `IEEE.tv <https://ieeetv.ieee.org/>`__
+-  `3Blue1Brown - YouTube <https://www.youtube.com/c/3blue1brown>`__
+-  `UTokyo.TV <https://todai.tv/>`__
+-  `東京大学公開講座 <https://www.u-tokyo.ac.jp/publiclectures/>`__
+-  `学術俯瞰講義 <https://www.gfk.c.u-tokyo.ac.jp/>`__
+-  `AIPオープンセミナー <https://aip.riken.jp/event-list/seminars/?lang=ja>`__
+-  `国立情報学研究所 - YouTube <https://www.youtube.com/user/jyouhougaku>`__
+-  `JST Science Portal <https://scienceportal.jst.go.jp/>`__
+-  `日本科学未来館 - YouTube <https://www.youtube.com/user/MiraikanChannel>`__
+-  `ONG STEAM STREAM <https://ong.iis.u-tokyo.ac.jp/ong-steam-stream/>`__
+-  `GLOBIS 知見録 <https://globis.jp/>`__

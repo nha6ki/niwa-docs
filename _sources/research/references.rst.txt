@@ -63,6 +63,11 @@ Web上で閲覧できる資料などのまとめ.
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
 - 図解でわかる! 理工系のためのよい文章の書き方 - 福地健太郎 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
 
+図
+^^^^^^^^
+
+-  `「論文の図って大事だぞ!!（特に小標本の場合）」っていう論文の紹介 - 藤井亮輔 <https://jojoshin.hatenablog.com/entry/2016/09/05/015224>`__
+
 卒業論文
 ^^^^^^^^
 
@@ -72,10 +77,11 @@ Web上で閲覧できる資料などのまとめ.
 -  `[研究室運営] 卒論・修論はチェックシートで目標設定と客観的な相互チェック - 中村聡史 <https://note.com/nkmr/n/nde3a352435e1>`__
 - 理系のための卒業論文術 - 中田亨 [`Amazon <https://www.amazon.co.jp/dp/406257666X/ref=cm_sw_r_tw_dp_U_x_kEF0EbPSHDRDK>`__]
 
-図
+修士論文
 ^^^^^^^^
 
--  `「論文の図って大事だぞ!!（特に小標本の場合）」っていう論文の紹介 - 藤井亮輔 <https://jojoshin.hatenablog.com/entry/2016/09/05/015224>`__
+-  `修士論文の作り方 - 伊藤貴之 <http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html>`__
+-  `理系大学院生応援チャンネル - 岡島寛准 <https://sites.google.com/view/rikei-gakusei>`__
 
 論文投稿
 --------
