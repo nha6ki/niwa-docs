@@ -1,0 +1,7 @@
+ECG
+=================
+
+Web Page
+--------------
+
+-  `Kentaro Hanaki. (20210127). 心電図データ×機械学習まとめ. Medium. <https://medium.com/micin-developers/%E5%BF%83%E9%9B%BB%E5%9B%B3%E3%83%87%E3%83%BC%E3%82%BF-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%BE%E3%81%A8%E3%82%81-ed702a0008d4>`__

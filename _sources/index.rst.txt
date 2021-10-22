@@ -34,6 +34,7 @@ Home
 
    intelligentinformatics/machinelearning
    intelligentinformatics/deeplearning
+   intelligentinformatics/ComputerVision
 
 .. toctree::
    :maxdepth: 2
@@ -66,9 +67,33 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Biomedical Engineering
+
+   BiomedicalEngineering/ECG
+   BiomedicalEngineering/PPG
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Mental Illness
+
+   MentalIllness/Psychiatry
+   MentalIllness/MentalHealth
+   MentalIllness/Depression
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Neuroscience
+
+   Neuroscience/Neuroaesthetics
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Robotics
 
-   robotics/
+   robotics/probabilisticrobotics
 
 .. toctree::
    :maxdepth: 2

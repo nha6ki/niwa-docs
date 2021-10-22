@@ -1,0 +1,7 @@
+PPG
+=================
+
+Web Page
+--------------
+
+-  `Naohiro Kaide. (20210422). PPG（光電容積測定法）× 機械学習の紹介. Medium. <https://medium.com/micin-developers/ppg-%E5%85%89%E9%9B%BB%E5%AE%B9%E7%A9%8D%E6%B8%AC%E5%AE%9A%E6%B3%95-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E7%B4%B9%E4%BB%8B-ea05eac11308>`__
