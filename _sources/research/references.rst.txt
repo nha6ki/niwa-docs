@@ -83,8 +83,17 @@ Web上で閲覧できる資料などのまとめ.
 修士論文
 ^^^^^^^^
 
--  `修士論文の作り方 - 伊藤貴之 <http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html>`__
+-  `修士論文の作り方 - 伊藤貴之 <http://www.is.ocha.ac.jp/~itot/message/msthesis.html>`__
+-  `卒論・修論の書き方のいろは - 福岡正人 <http://earthresources.sakura.ne.jp/er/Etc_R_R_Z2.html>`__
+-  `卒業論文・修士論文を書く人へ - 天野浩文 <http://isabelle.cc.kyushu-u.ac.jp/~amano/how_to_write/>`__
+-  `論文の書き方 - 安永卓生 <https://www.yasunaga-lab.bio.kyutech.ac.jp/ja/howto/%e8%ab%96%e6%96%87%e3%81%ae%e6%9b%b8%e3%81%8d%e6%96%b9/>`__
+-  `修士論文の手引き - 早稲田大学大学院商学研究科 <https://www.waseda.jp/fcom/gsc/assets/uploads/2021/04/shuron20210401.pdf>`__
 -  `理系大学院生応援チャンネル - 岡島寛准 <https://sites.google.com/view/rikei-gakusei>`__
+
+博士論文
+^^^^^^^^
+
+-  `修論(D論)参考 - 暦本純一 <https://rkmt.hatenadiary.org/entry/20101217/1292573279>`__
 
 論文投稿
 --------

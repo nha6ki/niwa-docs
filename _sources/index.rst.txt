@@ -69,8 +69,8 @@ Home
    :glob:
    :caption: Biomedical Engineering
 
-   BiomedicalEngineering/ECG
-   BiomedicalEngineering/PPG
+   BiomedicalEngineering/Electrocardiogram
+   BiomedicalEngineering/Photoplethysmogram
 
 .. toctree::
    :maxdepth: 2
