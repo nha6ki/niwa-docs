@@ -84,6 +84,13 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Medical Informatics
+
+   MedicalInformatics/HealthcareInformationTechnologist
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Neuroscience
 
    Neuroscience/Neuroaesthetics

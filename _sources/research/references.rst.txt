@@ -22,6 +22,8 @@ Web上で閲覧できる資料などのまとめ.
 -  `機械学習界隈の情報収集方法 - Hidekazu Oiwa <https://kisa12012.hatenadiary.org/entry/20131215/1387082769>`__
 -  `個人的Surveyのやり方 - mocobt <https://mocobt.hatenablog.com/entry/2020/05/13/021133>`__
 -  `How to Read a Paper - S. Keshav <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>`__
+-  `Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) <http://www.prisma-statement.org/>`__
+
 
 研究テーマの決め方
 -------------------
