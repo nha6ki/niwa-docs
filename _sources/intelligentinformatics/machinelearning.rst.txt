@@ -13,6 +13,10 @@ GitHub
 
 - `Géron, A. (2019). Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, Incorporated. <https://github.com/ageron/handson-ml2>`_
 - `Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer. <https://github.com/ctgk/PRML>`_
+- Hastie, T., Tibshirani, R., & Friedman, J. (2001). The Elements of Statistical Learning. Springer New York Inc..
+    - https://github.com/empathy87/The-Elements-of-Statistical-Learning-Python-Notebooks 
+    - https://github.com/maitbayev/the-elements-of-statistical-learning
+
 - `須山敦志. (2017). 機械学習スタートアップシリーズ ベイズ推論による機械学習入門. 講談社. <https://github.com/sammy-suyama/BayesBook>`_
 - `坪井祐太, 海野裕也, & 鈴木潤. (2017). 深層学習による自然言語処理. 講談社. <https://gist.github.com/Hironsan/1f1cc629613cbd7de042a7ce269b91d6>`_
 

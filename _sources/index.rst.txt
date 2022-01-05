@@ -43,6 +43,7 @@ Home
 
    programming/python
    programming/cpp
+   programming/CreativeCoding
    programming/web
    programming/regex
    programming/compiler

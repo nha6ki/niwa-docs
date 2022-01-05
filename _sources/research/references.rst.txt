@@ -24,7 +24,6 @@ Web上で閲覧できる資料などのまとめ.
 -  `How to Read a Paper - S. Keshav <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>`__
 -  `Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) <http://www.prisma-statement.org/>`__
 
-
 研究テーマの決め方
 -------------------
 
@@ -51,6 +50,17 @@ Web上で閲覧できる資料などのまとめ.
 
 -  `研究計画の書き方 - 内山和也 <http://www7a.biglobe.ne.jp/nifongo/keikaku/index.html>`__
 -  `書類の記入について（2） - 星槎大学大学院 <https://gred.seisa.ac.jp/kyouikugaku/nyushi/guideline2/?action=common_download_main&upload_id=838>`__
+
+HARKing
+^^^^^^^^
+
+-  `ツイート - 神谷之康 <https://twitter.com/ykamit/status/1077703514707582976>`__
+-  `なぜ分析結果を見てから仮説を作った論文はリジェクトされるのか - 関口倫紀 <https://tomsekiguchi.hatenablog.com/entry/20180122/1516611386>`__
+
+オープンサイエンス
+^^^^^^^^
+
+-  `2次分析研究 - 国里愛彦 <https://ykunisato.github.io/ccp-lab-slide/secondary_analysis/secondary_analysis.html>`__
 
 論文執筆
 --------

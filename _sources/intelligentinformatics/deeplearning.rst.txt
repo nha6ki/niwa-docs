@@ -1,6 +1,11 @@
 Deep Learning
 =================
 
+Tutorial
+--------------
+
+- `Stanford CS230 <https://stanford.edu/~shervine/l/ja/teaching/cs-230/>`_
+
 GitHub
 --------------
 
