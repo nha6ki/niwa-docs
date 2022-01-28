@@ -4,4 +4,4 @@ Analysis
 Web Page
 --------------
 
--  `松尾信一郎の雑記帳 - 松尾 信一郎<https://www.math.nagoya-u.ac.jp/~shinichiroh/notebook.html>`__
+-  `松尾信一郎の雑記帳 - 松尾 信一郎 <https://www.math.nagoya-u.ac.jp/~shinichiroh/notebook.html>`__
