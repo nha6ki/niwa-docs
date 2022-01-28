@@ -63,6 +63,7 @@ Home
    :glob:
    :caption: Mathematics
 
+   mathematics/Analysis
    mathematics/bayesianstatistics
 
 .. toctree::

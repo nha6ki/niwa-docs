@@ -4,6 +4,7 @@ Deep Learning
 Tutorial
 --------------
 
+- `DS-GA 1008 SPRING 2020 - NYU CENTER FOR DATA SCIENCE <https://atcold.github.io/pytorch-Deep-Learning/ja/>`_
 - `Stanford CS230 <https://stanford.edu/~shervine/l/ja/teaching/cs-230/>`_
 
 GitHub
