@@ -4,5 +4,6 @@ Psychiatry
 Web Page
 --------------
 
+- `Computational Psychiatry Research Map​ (CPSYMAP). <https://ncnp-cpsy-rmap.web.app/>`__
 - `日本精神神経学会. (20150212). 百年史写真館. <https://www.jspn.or.jp/modules/forpublic/index.php?content_id=9>`__
 - `岸本泰士郎. (20180310). 情報通信技術（ICT）や人工知能（AI）を活用した精神科診療支援の試み. 東京都医師会講演 第30回 医療とITシンポジウム. <https://www.tokyo.med.or.jp/wp-content/uploads/application/pdf/2018_ITsympo-lecture2.pdf>`__

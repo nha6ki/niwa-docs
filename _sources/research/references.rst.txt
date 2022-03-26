@@ -11,6 +11,15 @@ Web上で閲覧できる資料などのまとめ.
 -  `何をやったらいいかを迷う4年生のためのロボット分野の研究の進め方 - 株式会社アールティ <https://www.rt-shop.jp/blog/wp-content/uploads/2020/08/fe5ef1f2ccfb4c5c1afb922270a0c920.pdf>`__
 - なぜあなたの研究は進まないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]
 
+再現性
+^^^^^^^^
+
+-  `再現性問題は若手研究者の突破口 - 山田祐樹 <https://www.slideshare.net/momentumyy/ss-238482877?>`__
+-  `実験データ解析再入門：論文を「フェイクニュース」にしないために - 神谷之康 <https://speakerdeck.com/ykamit/shi-yan-detajie-xi-zai-ru-men-lun-wen-wo-hueikuniyusu-nisinaitameni?slide=6>`__
+-  `ツイート - 神谷之康 <https://twitter.com/ykamit/status/1077703514707582976>`__
+-  `なぜ分析結果を見てから仮説を作った論文はリジェクトされるのか - 関口倫紀 <https://tomsekiguchi.hatenablog.com/entry/20180122/1516611386>`__
+-  `2次分析研究 - 国里愛彦 <https://ykunisato.github.io/ccp-lab-slide/secondary_analysis/secondary_analysis.html>`__
+
 サーベイの仕方
 --------------
 
@@ -52,16 +61,6 @@ Web上で閲覧できる資料などのまとめ.
 -  `研究計画の書き方 - 内山和也 <http://www7a.biglobe.ne.jp/nifongo/keikaku/index.html>`__
 -  `書類の記入について（2） - 星槎大学大学院 <https://gred.seisa.ac.jp/kyouikugaku/nyushi/guideline2/?action=common_download_main&upload_id=838>`__
 
-HARKing
-^^^^^^^^
-
--  `ツイート - 神谷之康 <https://twitter.com/ykamit/status/1077703514707582976>`__
--  `なぜ分析結果を見てから仮説を作った論文はリジェクトされるのか - 関口倫紀 <https://tomsekiguchi.hatenablog.com/entry/20180122/1516611386>`__
-
-オープンサイエンス
-^^^^^^^^
-
--  `2次分析研究 - 国里愛彦 <https://ykunisato.github.io/ccp-lab-slide/secondary_analysis/secondary_analysis.html>`__
 
 論文執筆
 --------
@@ -112,6 +111,7 @@ HARKing
 ^^^^^^^^
 
 -  `修論(D論)参考 - 暦本純一 <https://rkmt.hatenadiary.org/entry/20101217/1292573279>`__
+-  `(修士/博士/普通の)論文執筆の際にお願いしたいこと、その二 - 立川裕二 <https://member.ipmu.jp/yuji.tachikawa/misc/dron2.html>`__
 
 論文投稿
 --------
@@ -120,10 +120,14 @@ HARKing
 -  `Why is Writing Important - 横井祥 <https://speakerdeck.com/eumesy/why-is-academic-writing-important-for-us>`__
 -  `トップカンファレンスへの論文採択に向けて（AI研究分野版） - 鈴木潤 <https://www.slideshare.net/JunSuzuki21/20191123jsaiinvitedtalk-205359389>`__
 -  `研究をはじめてから国際会議と学術論文に採択されるまで（WEB公開版） - 山本克彦 <https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban>`__
+-  `ハゲタカジャーナル - 奈良先端科学技術大学院大学 研究推進機構 研究推進部門 <https://www.naist.jp/kensui/information/predatory-journals.html>`__
+-  `Beall's List <https://beallslist.net/>`__
+
 
 進捗報告・プレゼンの仕方
 ------------------------
 
+-  `卒論・修論の口頭試問について - 株式会社アカリク <https://acaric.jp/articles/postdoc/3834>`__
 -  `良い進捗報告のやり方 - next49 <http://next49.hatenadiary.jp/entry/20100528/p1>`__
 -  `「話のわかりやすい人」と「わかりにくい人」のちがい - 安達裕哉 <https://blog.tinect.jp/?p=5702>`__
 -  `プレゼンではまずプロセス全体を俯瞰せよ - グロービス経営大学院 <https://globis.jp/article/5674>`__
@@ -132,13 +136,13 @@ HARKing
 -  `質問の方法 - 加納学 <https://go.shr.lc/2KQPTOF>`__
 - なぜあなたの発表は伝わらないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4779219310/ref=cm_sw_r_tw_dp_U_x_7fF0EbZGG778K>`__]
 
-
 研究室の選び方
 --------------
 
 -  `大学院の研究室を選ぶ際に着目すべき5つのポイント - 西原史暁 <https://id.fnshr.info/2013/02/16/gradpoints/>`__
 -  `研究室の選び方(CS系編) <https://anond.hatelabo.jp/20151201084143>`__
 -  `人を育てるラボの特徴 - 安宅和人 <https://kaz-ataka.hatenablog.com/entry/20081023/1224697602>`__
+-  `大学院進学と指導教員 - 下地理則 <https://note.com/lingfieldwork/n/n5b428b1fc437>`__
 
 学生生活
 --------------

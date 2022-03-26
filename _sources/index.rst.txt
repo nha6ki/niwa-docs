@@ -35,6 +35,7 @@ Home
    intelligentinformatics/machinelearning
    intelligentinformatics/deeplearning
    intelligentinformatics/ComputerVision
+   intelligentinformatics/NaturalLanguageProcessing
 
 .. toctree::
    :maxdepth: 2
