@@ -25,13 +25,29 @@ Book
 
 - `Hastie, T., Tibshirani, R., & Friedman, J. (2001). The Elements of Statistical Learning. Springer New York Inc.. <https://web.stanford.edu/~hastie/ElemStatLearn/>`_
 
-Paper
---------------
-
-- `鈴木 大慈, 過学習と正則化, 応用数理, 2018, 28 巻, 2 号, p. 28-33, 公開日 2018/09/30 <https://doi.org/10.11540/bjsiam.28.2_28>`_
 
 Web Page
 --------------
 
-- `Differences between L1 and L2 as Loss Function and Regularization <http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/>`_
+Metrics
+^^^^^^^^
+
+- `機械学習の評価指標 分類編：適合率や再現率、AUC（ROC曲線、PR曲線）を解説 - codexa <https://www.codexa.net/ml-evaluation-cls/>`_
+
+Cross Validation
+^^^^^^^^
+
+- `Python: パラメータ選択を伴う機械学習モデルの交差検証について - もみじあめ <https://blog.amedama.jp/entry/2018/07/23/084500>`_
+- `一流の「ものさし」職人になろう　Cross Validation (交差検証)を深堀り - Hatomugi <https://qiita.com/Hatomugi/items/620c1bc757266b00e87f>`_
+- `Mean(scores) vs Score(concatenation) in cross validation - Stack Exchange <https://stats.stackexchange.com/questions/34611/meanscores-vs-scoreconcatenation-in-cross-validation>`_
+
+Regularization
+^^^^^^^^
+
+- `鈴木 大慈, 過学習と正則化, 応用数理, 2018, 28 巻, 2 号, p. 28-33, 公開日 2018/09/30 <https://doi.org/10.11540/bjsiam.28.2_28>`_
+- `Differences between L1 and L2 as Loss Function and Regularization - log0 <http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/>`_
+
+Multicollinearity
+^^^^^^^^
+
 - `regression - Multicollinearity and predictive performance - Cross Validated <https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance>`_

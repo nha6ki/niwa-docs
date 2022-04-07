@@ -20,4 +20,21 @@ Book
 
 - `Ian Goodfellow, Yoshua Bengio, & Aaron Courville (2016). Deep Learning. MIT Press. <https://www.deeplearningbook.org/>`_
 
+Web Page
+--------------
+
+Hyperparameters
+^^^^^^^^
+
+- `hypeparameters tuning neural network according to loss vs according to scoring function - Akihiro FUJII <https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d>`_
+
+Optimizer
+^^^^^^^^
+
+- `Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Stack Exchange <https://datascience.stackexchange.com/questions/42758/hypeparameters-tuning-neural-network-according-to-loss-vs-according-to-scoring-f>`_
+
+PyTorch
+^^^^^^^^
+
+- `PyTorchでの学習・推論を高速化するコツ集 - 小川雄太郎 <https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587>`_
 

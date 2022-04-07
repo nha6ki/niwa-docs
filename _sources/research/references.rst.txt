@@ -73,6 +73,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `論文作成穴埋めシート - 読書猿 <https://readingmonkey.blog.fc2.com/blog-entry-563.html>`__
 -  `レポート・論文の書き方 - 戸口民也 <http://www.nagasaki-gaigo.ac.jp/toguchi/ref/bunsho.htm>`__
 -  `真っ赤な論文原稿が指導教員から帰って来たら？ - next49 <https://next49.hatenadiary.jp/entry/20081107/p1>`__
+-  `見やすいグラフの色分けをまとめました（カラーコード） - のるん <https://contents-open.hatenablog.com/entry/2021/08/19/231157>`__
 - なぜあなたは論文が書けないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4779217245/ref=cm_sw_r_tw_dp_U_x_0fF0Eb88XFJZ6>`__]
 - 日本語の作文技術 - 本多勝一 [`Amazon <https://www.amazon.co.jp/dp/4022618450/ref=cm_sw_r_tw_dp_U_x_8wF0EbC5TSF0Y>`__]
 - 理科系の作文技術 - 木下是雄 [`Amazon <https://www.amazon.co.jp/dp/4121006240/ref=cm_sw_r_tw_dp_U_x_4vF0EbRKE1EX2>`__]
@@ -81,10 +82,6 @@ Web上で閲覧できる資料などのまとめ.
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
 - 図解でわかる! 理工系のためのよい文章の書き方 - 福地健太郎 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
 
-図
-^^^^^^^^
-
--  `「論文の図って大事だぞ!!（特に小標本の場合）」っていう論文の紹介 - 藤井亮輔 <https://jojoshin.hatenablog.com/entry/2016/09/05/015224>`__
 
 卒業論文
 ^^^^^^^^
