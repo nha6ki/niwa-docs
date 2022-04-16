@@ -24,10 +24,13 @@ Book
 --------------
 
 - `Hastie, T., Tibshirani, R., & Friedman, J. (2001). The Elements of Statistical Learning. Springer New York Inc.. <https://web.stanford.edu/~hastie/ElemStatLearn/>`_
+- `Christoph, M., (2020). Interpretable Machine Learning. Lulu.com. <https://hacarus.github.io/interpretable-ml-book-ja/>`_
 
 
 Web Page
 --------------
+
+- `10. Common pitfalls and recommended practices - scikit-learn <https://scikit-learn.org/stable/common_pitfalls.html>`_
 
 Metrics
 ^^^^^^^^
@@ -40,6 +43,7 @@ Cross Validation
 - `Python: パラメータ選択を伴う機械学習モデルの交差検証について - もみじあめ <https://blog.amedama.jp/entry/2018/07/23/084500>`_
 - `一流の「ものさし」職人になろう　Cross Validation (交差検証)を深堀り - Hatomugi <https://qiita.com/Hatomugi/items/620c1bc757266b00e87f>`_
 - `Mean(scores) vs Score(concatenation) in cross validation - Stack Exchange <https://stats.stackexchange.com/questions/34611/meanscores-vs-scoreconcatenation-in-cross-validation>`_
+- `PCA and the train/test split - Cross Validated <https://stats.stackexchange.com/questions/55718/pca-and-the-train-test-split>`_
 
 Regularization
 ^^^^^^^^

@@ -36,5 +36,5 @@ Optimizer
 PyTorch
 ^^^^^^^^
 
+- `PERFORMANCE TUNING GUIDE - PyTorch <https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html>`_
 - `PyTorchでの学習・推論を高速化するコツ集 - 小川雄太郎 <https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587>`_
-

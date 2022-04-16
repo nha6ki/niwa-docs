@@ -123,6 +123,23 @@ XML Path Language (XPath)
 - `scrapyでよく使うxpath, cssのセレクタ | Python Snippets <https://python.civic-apps.com/scrapy-xpath-css/>`_
 - `便利なXPathまとめ - ZOZO Technologies TECH BLOG <https://techblog.zozo.com/entry/xpath>`_
 
+プログラムの高速化
+--------------
+
+- リスト内包表記 or mapを使う [#f2]_ [#f6]_
+- list()ではなく[]を使う [#f4]_
+- tupleを使う [#f5]_ [#f6]_
+- f-stringを使う [#f3]_
+- whileではなくforを使う [#f6]_
+- 組み込み関数を使う
+- numpyの関数を使って演算する
+
+
 .. rubric:: Footnotes
 
 .. [#f1] https://www.python.org/dev/peps/pep-0206/#id3
+.. [#f2] https://stackoverflow.com/a/6407222
+.. [#f3] https://www.scivision.dev/python-f-string-speed/
+.. [#f4] https://stackoverflow.com/questions/30216000/why-is-faster-than-list
+.. [#f5] https://stackoverflow.com/a/48936610
+.. [#f6] https://qiita.com/shaka/items/f180ae4dc945dc7b9066
