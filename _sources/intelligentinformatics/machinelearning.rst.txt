@@ -51,6 +51,12 @@ Regularization
 - `鈴木 大慈, 過学習と正則化, 応用数理, 2018, 28 巻, 2 号, p. 28-33, 公開日 2018/09/30 <https://doi.org/10.11540/bjsiam.28.2_28>`_
 - `Differences between L1 and L2 as Loss Function and Regularization - log0 <http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/>`_
 
+Class Imbalance
+^^^^^^^^
+
+- `8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset - Jason Brownlee <https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/>`_
+
+
 Multicollinearity
 ^^^^^^^^
 
