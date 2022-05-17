@@ -1,7 +1,20 @@
 Computer Vision
 =================
 
+Tutorial
+--------------
+
+- https://github.com/yoyoyo-yo/Gasyori100knock
+
+GitHub
+--------------
+
+- https://github.com/spmallick/learnopencv
+- `PyTorch Image Models <https://rwightman.github.io/pytorch-image-models/>`__
+- https://github.com/hoya012/deep_learning_object_detection
+- https://github.com/xinghaochen/awesome-hand-pose-estimation
+
 Web Page
 --------------
 
--  `MIRU若手プログラム2018. (2018). 各チームの発表資料. <https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99>`__
+- `MIRU若手プログラム2018. (2018). 各チームの発表資料. <https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99>`__

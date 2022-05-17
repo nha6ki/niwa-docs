@@ -1,0 +1,12 @@
+Reinforcement Learning
+=================
+
+GitHub
+--------------
+
+- https://github.com/seungeunrho/minimalRL
+
+Web Page
+--------------
+
+- `Key Papers in Deep RL - OpenAI <https://spinningup.openai.com/en/latest/spinningup/keypapers.html>`__

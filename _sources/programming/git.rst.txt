@@ -4,4 +4,7 @@ Git
 GitHub
 --------------
 
+- https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md
 - `RomuloOliveira/commit-messages-guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_ja-JP.md>`_
+- https://github.com/github/gitignore
+- https://github.com/gayanvoice/top-github-users

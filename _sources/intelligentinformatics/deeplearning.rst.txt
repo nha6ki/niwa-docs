@@ -14,6 +14,14 @@ GitHub
 - `Chollet, F. (2017). Deep Learning with Python. Manning. <https://github.com/fchollet/deep-learning-with-python-notebooks>`_
 - `Foster, D. (2019). Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. O'Reilly Media. <https://github.com/davidADSP/GDL_code>`_
 - `Patel, A. (2019). Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data. O'Reilly Media. <https://github.com/aapatel09/handson-unsupervised-learning>`_
+- https://github.com/bharathgs/Awesome-pytorch-list
+
+GAN
+^^^^^^^^
+
+- https://github.com/eriklindernoren/Keras-GAN
+- https://github.com/robbiebarrat/art-DCGAN
+
 
 Book
 --------------
@@ -39,10 +47,10 @@ MLP (Multilayer Perceptron)
 - `How to Configure the Number of Layers and Nodes in a Neural Network - Jason Brownlee <https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/>`_
 - `How to choose the number of hidden layers and nodes in a feedforward neural network? - Cross Validated <https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw/1097#1097>`_
 
-    "One hidden layer is sufficient for the large majority of problems."
-    "the optimal size of the hidden layer is usually between the size of the input and size of the output layers."
-    "The number of hidden neurons should be 2/3 the size of the input layer, plus the size of the output layer."
-    "the number of neurons in that layer is the mean of the neurons in the input and output layers."
+    | "One hidden layer is sufficient for the large majority of problems."
+    | "the optimal size of the hidden layer is usually between the size of the input and size of the output layers."
+    | "The number of hidden neurons should be 2/3 the size of the input layer, plus the size of the output layer."
+    | "the number of neurons in that layer is the mean of the neurons in the input and output layers."
 
 - `multi-layer perceptron (MLP) architecture: criteria for choosing number of hidden layers and size of the hidden layer? - Stack Overflow <https://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde/10568938#10568938>`_
 - `Number of nodes in hidden layers of neural network - Cross Validated <https://stats.stackexchange.com/questions/160887/number-of-nodes-in-hidden-layers-of-neural-network/160901#160901>`_

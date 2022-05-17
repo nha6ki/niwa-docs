@@ -1,0 +1,12 @@
+Data Science
+=================
+
+Book
+--------------
+
+- https://github.com/chaconnewu/free-data-science-books
+
+GitHub
+--------------
+
+- https://github.com/joelgrus/data-science-from-scratch

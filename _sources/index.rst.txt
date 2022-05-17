@@ -26,6 +26,7 @@ Home
    :caption: Information Technology
 
    informationtechnology/algorithmsanddatastructures
+   informationtechnology/PointCloud
 
 .. toctree::
    :maxdepth: 2
@@ -34,8 +35,12 @@ Home
 
    intelligentinformatics/machinelearning
    intelligentinformatics/deeplearning
+   intelligentinformatics/ReinforcementLearning
    intelligentinformatics/ComputerVision
    intelligentinformatics/NaturalLanguageProcessing
+   intelligentinformatics/AnomalyDetection
+   intelligentinformatics/Datasets
+   intelligentinformatics/DataScience
 
 .. toctree::
    :maxdepth: 2
@@ -51,6 +56,7 @@ Home
    programming/git
    programming/codereview
    programming/texteditor
+   programming/Docker
 
 .. toctree::
    :maxdepth: 2
@@ -104,6 +110,15 @@ Home
    :caption: Robotics
 
    robotics/probabilisticrobotics
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Business
+
+   Business/Interview
+   Business/Developer
+   Business/RemoteWork
 
 .. toctree::
    :maxdepth: 2

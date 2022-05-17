@@ -5,4 +5,11 @@ GitHub
 --------------
 
 - https://github.com/TheAlgorithms 
+- https://github.com/TheAlgorithms/Python
+- https://github.com/trekhleb/javascript-algorithms
 - `大槻兼資, & 秋葉拓哉. (2020). 問題解決力を鍛える!アルゴリズムとデータ構造. <https://github.com/drken1215/book_algorithm_solution>`_
+
+Web Page
+--------------
+
+- `Algorithm Visualizer <https://algorithm-visualizer.org/>`__

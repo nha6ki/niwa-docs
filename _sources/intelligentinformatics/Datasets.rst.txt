@@ -1,0 +1,13 @@
+Datasets
+=================
+
+Mental Health
+--------------
+
+- https://github.com/kharrigian/mental-health-datasets
+
+Medical Data
+--------------
+
+- https://github.com/beamandrew/medical-data
+
