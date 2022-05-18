@@ -11,8 +11,11 @@ GitHub
 
 - https://github.com/spmallick/learnopencv
 - `PyTorch Image Models <https://rwightman.github.io/pytorch-image-models/>`__
+- https://github.com/hysts/pytorch_image_classification
 - https://github.com/hoya012/deep_learning_object_detection
 - https://github.com/xinghaochen/awesome-hand-pose-estimation
+- https://github.com/tzutalin/labelImg
+- https://github.com/wkentaro/labelme
 
 Web Page
 --------------

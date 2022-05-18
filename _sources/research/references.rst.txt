@@ -23,6 +23,8 @@ Web上で閲覧できる資料などのまとめ.
 サーベイの仕方
 --------------
 
+-  `論文の探し方（情報系） - 岡瑞起 <https://note.com/mizuki_oka/n/nfd3101bec937>`__
+-  `良い論文の見分け方（情報系） - 岡瑞起 <https://note.com/mizuki_oka/n/n963988a99bf7>`__
 -  `先端技術とメディア表現1 - 落合陽一 <https://www.slideshare.net/Ochyai/1-ftma15>`__
 -  `研究分野をサーベイする - 伊藤貴之 <https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017>`__
 -  `情報系の研究者が研究・論文執筆をする際に知らなくてはならない事や心構え - 直江健介 <https://pdf4pro.com/view/web-sfc-keio-ac-jp-7c5c7.html>`__
@@ -165,6 +167,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `学術の価値 - 丸山宏 <https://japan.cnet.com/blog/maruyama/2020/10/23/entry_30023024/>`__
 -  `問題を科学的に解決する資質・能力の育成 - 菅原雄貴 <https://www.nier.go.jp/kaihatsu/shiteikou/pdf/h29_pri_rika_hirosaki-fusyo_2.pdf>`__
 -  `レポート作成の手引き - 金沢大学 <https://www.kanazawa-u.ac.jp/wp-content/uploads/2015/01/tebiki2.pdf>`__
+-  `要約文の書き方のコツとは？端的に情報を伝える方法を紹介 <https://www.career-rise.info/blog/inventory/>`__
 -  独創はひらめかない - 金出武雄 [`Amazon <https://www.amazon.co.jp/dp/4532318416/ref=cm_sw_r_tw_dp_U_x_OsF0EbEEDGZET>`__]
 -  新 企業の研究者をめざす皆さんへ - 丸山宏 [`Amazon <https://www.amazon.co.jp/dp/4764906066/ref=cm_sw_r_tw_dp_U_x_AzF0EbQS3FCMX>`__]
 -  博士号だけでは不十分! - ピーター・J・ファイベルマン [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]

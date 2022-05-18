@@ -4,8 +4,16 @@ Deep Learning
 Tutorial
 --------------
 
-- `DS-GA 1008 SPRING 2020 - NYU CENTER FOR DATA SCIENCE <https://atcold.github.io/pytorch-Deep-Learning/ja/>`_
-- `Stanford CS230 <https://stanford.edu/~shervine/l/ja/teaching/cs-230/>`_
+- `CS230: Deep Learning, Stanford | Fall 2018 <https://cs230.stanford.edu/>`_
+    - `Cheatsheets <https://stanford.edu/~shervine/l/ja/teaching/cs-230/>`_
+- `DS-GA 1008: Deep Learning, NYU | Spring 2020 <https://atcold.github.io/pytorch-Deep-Learning/>`_
+- `MIT 6.S191: Introduction to Deep Learning, MIT | 2020 <http://introtodeeplearning.com/>`_
+- `CS 182: Deep Learning, UC Berkeley | Spring 2021 <https://cs182sp21.github.io/>`_
+
+- `CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020 <https://sites.google.com/view/berkeley-cs294-158-sp20/home>`_
+
+- `CS330: Deep Multi-Task and Meta Learning, Stanford | Fall 2019 <https://cs330.stanford.edu/>`_
+
 
 GitHub
 --------------
@@ -15,6 +23,7 @@ GitHub
 - `Foster, D. (2019). Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play. O'Reilly Media. <https://github.com/davidADSP/GDL_code>`_
 - `Patel, A. (2019). Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data. O'Reilly Media. <https://github.com/aapatel09/handson-unsupervised-learning>`_
 - https://github.com/bharathgs/Awesome-pytorch-list
+- https://github.com/rasbt/deeplearning-models
 
 GAN
 ^^^^^^^^

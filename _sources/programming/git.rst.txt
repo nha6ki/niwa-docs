@@ -4,7 +4,8 @@ Git
 GitHub
 --------------
 
-- https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md
+- `tiimgreen/github-cheat-sheet <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md>`_
 - `RomuloOliveira/commit-messages-guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_ja-JP.md>`_
+- `gitにおけるコミットログ/メッセージ例文集100 <https://gist.github.com/mono0926/e6ffd032c384ee4c1cef5a2aa4f778d7>`_
 - https://github.com/github/gitignore
 - https://github.com/gayanvoice/top-github-users

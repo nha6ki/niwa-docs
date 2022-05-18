@@ -1,6 +1,18 @@
 Natural Language Processing
 =================
 
+Tutorial
+--------------
+
+- `CS224N: NLP with Deep Learning, Stanford | Winter 2019 <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/>`_
+- `言語処理100本ノック <https://nlp100.github.io/ja/>`_
+
+GitHub
+--------------
+
+- https://huggingface.co/
+- https://github.com/doccano/doccano
+
 Web Page
 --------------
 

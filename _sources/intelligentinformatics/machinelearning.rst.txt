@@ -7,6 +7,8 @@ Tutorial
 --------------
 
 - `Introduction to Machine Learning | Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course/ml-intro>`_
+- `CS229: Machine Learning, Stanford | Autumn 2018 <https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU>`_
+
 
 GitHub
 --------------

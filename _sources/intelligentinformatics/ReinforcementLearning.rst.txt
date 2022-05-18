@@ -1,9 +1,16 @@
 Reinforcement Learning
 =================
 
+Tutorial
+--------------
+
+- `Introduction to Reinforcement Learning, UCL | 2015 <https://www.davidsilver.uk/teaching/>`__
+- `CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020 <https://youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc>`__
+
 GitHub
 --------------
 
+- https://github.com/openai/baselines
 - https://github.com/seungeunrho/minimalRL
 
 Web Page
