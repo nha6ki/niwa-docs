@@ -40,15 +40,21 @@ Book
 Web Page
 --------------
 
+- `A Recipe for Training Neural Networks - Andrej Karpathy <http://karpathy.github.io/2019/04/25/recipe/>`_
+- `Troubleshooting Deep Neural Networks - Josh Tobin <http://josh-tobin.com/troubleshooting-deep-neural-networks.html>`_
+
 Hyperparameters
 ^^^^^^^^
 
-- `hypeparameters tuning neural network according to loss vs according to scoring function - Akihiro FUJII <https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d>`_
+- `hypeparameters tuning neural network according to loss vs according to scoring function - Stack Exchange <https://datascience.stackexchange.com/questions/42758/hypeparameters-tuning-neural-network-according-to-loss-vs-according-to-scoring-f>`_
 
 Optimizer
 ^^^^^^^^
 
-- `Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Stack Exchange <https://datascience.stackexchange.com/questions/42758/hypeparameters-tuning-neural-network-according-to-loss-vs-according-to-scoring-f>`_
+
+https://www.fast.ai/2018/07/02/adam-weight-decay/
+
+- `Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Akihiro FUJII <https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d>`_
 
 MLP (Multilayer Perceptron)
 ^^^^^^^^
@@ -63,7 +69,6 @@ MLP (Multilayer Perceptron)
 
 - `multi-layer perceptron (MLP) architecture: criteria for choosing number of hidden layers and size of the hidden layer? - Stack Overflow <https://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde/10568938#10568938>`_
 - `Number of nodes in hidden layers of neural network - Cross Validated <https://stats.stackexchange.com/questions/160887/number-of-nodes-in-hidden-layers-of-neural-network/160901#160901>`_
-
 
 PyTorch
 ^^^^^^^^

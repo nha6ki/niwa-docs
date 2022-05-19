@@ -20,7 +20,6 @@ GitHub
     - https://github.com/maitbayev/the-elements-of-statistical-learning
 
 - `須山敦志. (2017). 機械学習スタートアップシリーズ ベイズ推論による機械学習入門. 講談社. <https://github.com/sammy-suyama/BayesBook>`_
-- `坪井祐太, 海野裕也, & 鈴木潤. (2017). 深層学習による自然言語処理. 講談社. <https://gist.github.com/Hironsan/1f1cc629613cbd7de042a7ce269b91d6>`_
 - https://github.com/josephmisiti/awesome-machine-learning
 
 Book
@@ -28,6 +27,8 @@ Book
 
 - `Hastie, T., Tibshirani, R., & Friedman, J. (2001). The Elements of Statistical Learning. Springer New York Inc.. <https://web.stanford.edu/~hastie/ElemStatLearn/>`_
 - `Christoph, M., (2020). Interpretable Machine Learning. Lulu.com. <https://hacarus.github.io/interpretable-ml-book-ja/>`_
+- `Machine Learning Systems Design - Chip Huyen <https://huyenchip.com/machine-learning-systems-design/toc.html>`_
+
 
 
 Web Page

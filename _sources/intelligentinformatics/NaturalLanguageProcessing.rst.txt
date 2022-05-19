@@ -6,6 +6,7 @@ Tutorial
 
 - `CS224N: NLP with Deep Learning, Stanford | Winter 2019 <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/>`_
 - `言語処理100本ノック <https://nlp100.github.io/ja/>`_
+- `坪井祐太, 海野裕也, & 鈴木潤. (2017). 深層学習による自然言語処理. 講談社. <https://gist.github.com/Hironsan/1f1cc629613cbd7de042a7ce269b91d6>`_
 
 GitHub
 --------------
