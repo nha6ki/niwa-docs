@@ -49,6 +49,11 @@ Cross Validation
 - `Mean(scores) vs Score(concatenation) in cross validation - Stack Exchange <https://stats.stackexchange.com/questions/34611/meanscores-vs-scoreconcatenation-in-cross-validation>`_
 - `PCA and the train/test split - Cross Validated <https://stats.stackexchange.com/questions/55718/pca-and-the-train-test-split>`_
 
+Hyperparameters
+^^^^^^^^
+
+- `機械学習におけるハイパーパラメータ最適化の理論と実践 - 野村将寛 <https://logmi.jp/tech/articles/322678>`_
+
 Regularization
 ^^^^^^^^
 

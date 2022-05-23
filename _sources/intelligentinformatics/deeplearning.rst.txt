@@ -50,11 +50,13 @@ Hyperparameters
 
 Optimizer
 ^^^^^^^^
-
-
-https://www.fast.ai/2018/07/02/adam-weight-decay/
-
+- `AdamW and Super-convergence is now the fastest way to train neural nets - fast.ai <- https://www.fast.ai/2018/07/02/adam-weight-decay/>`_
 - `Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Akihiro FUJII <https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d>`_
+
+Batch Normalization
+^^^^^^^^
+
+- `Ordering of batch normalization and dropout? - stackoverflow <- https://stackoverflow.com/a/62806906/15383706>`_
 
 MLP (Multilayer Perceptron)
 ^^^^^^^^
