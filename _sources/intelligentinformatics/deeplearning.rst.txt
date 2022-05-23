@@ -56,7 +56,7 @@ Optimizer
 Batch Normalization
 ^^^^^^^^
 
-- `Ordering of batch normalization and dropout? - stackoverflow <- https://stackoverflow.com/a/62806906/15383706>`_
+- `Ordering of batch normalization and dropout? - stackoverflow <https://stackoverflow.com/a/62806906/15383706>`_
 
 MLP (Multilayer Perceptron)
 ^^^^^^^^
