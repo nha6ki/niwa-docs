@@ -34,6 +34,7 @@ Book
 Web Page
 --------------
 
+- `Choosing the Right Machine Learning Algorithm - Rajat Harlalka <https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f>`_
 - `10. Common pitfalls and recommended practices - scikit-learn <https://scikit-learn.org/stable/common_pitfalls.html>`_
 
 Metrics

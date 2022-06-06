@@ -56,6 +56,7 @@
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#book">Book</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#web-page">Web Page</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#troubleshooting-and-debugging">Troubleshooting and Debugging</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#hyperparameters">Hyperparameters</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#optimizer">Optimizer</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#batch-normalization">Batch Normalization</a></li>
@@ -197,10 +198,15 @@
 </div>
 <div class="section" id="web-page">
 <h2>Web Page<a class="headerlink" href="#web-page" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="troubleshooting-and-debugging">
+<h3>Troubleshooting and Debugging<a class="headerlink" href="#troubleshooting-and-debugging" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="http://karpathy.github.io/2019/04/25/recipe/">A Recipe for Training Neural Networks - Andrej Karpathy</a></p></li>
 <li><p><a class="reference external" href="http://josh-tobin.com/troubleshooting-deep-neural-networks.html">Troubleshooting Deep Neural Networks - Josh Tobin</a></p></li>
+<li><p><a class="reference external" href="https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607">37 Reasons why your Neural Network is not working - Slav Ivanov</a></p></li>
+<li><p><a class="reference external" href="https://cs231n.github.io/neural-networks-3/">CS231n: Convolutional Neural Networks for Visual Recognition</a></p></li>
 </ul>
+</div>
 <div class="section" id="hyperparameters">
 <h3>Hyperparameters<a class="headerlink" href="#hyperparameters" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
@@ -210,14 +216,20 @@
 <div class="section" id="optimizer">
 <h3>Optimizer<a class="headerlink" href="#optimizer" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p><a class="reference external" href="-https://www.fast.ai/2018/07/02/adam-weight-decay/">AdamW and Super-convergence is now the fastest way to train neural nets - fast.ai</a></p></li>
+<li><p><a class="reference external" href="https://www.fast.ai/2018/07/02/adam-weight-decay/">AdamW and Super-convergence is now the fastest way to train neural nets - fast.ai</a></p></li>
 <li><p><a class="reference external" href="https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d">Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Akihiro FUJII</a></p></li>
 </ul>
 </div>
 <div class="section" id="batch-normalization">
 <h3>Batch Normalization<a class="headerlink" href="#batch-normalization" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://stackoverflow.com/a/62806906/15383706">Ordering of batch normalization and dropout? - stackoverflow</a></p></li>
+<ul>
+<li><dl>
+<dt><a class="reference external" href="https://stackoverflow.com/a/62806906/15383706">Ordering of batch normalization and dropout? - stackoverflow</a></dt><dd><div class="line-block">
+<div class="line">順番はBN → Dropoutにする（Dropout → BNだと学習と推論でBNに入力する値の分散が変わってしまい性能が悪化する）</div>
+</div>
+</dd>
+</dl>
+</li>
 </ul>
 </div>
 <div class="section" id="mlp-multilayer-perceptron">
@@ -230,6 +242,7 @@
 <div class="line">“One hidden layer is sufficient for the large majority of problems.”</div>
 <div class="line">“the optimal size of the hidden layer is usually between the size of the input and size of the output layers.”</div>
 <div class="line">“The number of hidden neurons should be 2/3 the size of the input layer, plus the size of the output layer.”</div>
+<div class="line">“The number of hidden neurons should be less than twice the size of the input layer.”</div>
 <div class="line">“the number of neurons in that layer is the mean of the neurons in the input and output layers.”</div>
 </div>
 </div></blockquote>

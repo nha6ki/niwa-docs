@@ -40,8 +40,14 @@ Book
 Web Page
 --------------
 
+Troubleshooting and Debugging
+^^^^^^^^
+
 - `A Recipe for Training Neural Networks - Andrej Karpathy <http://karpathy.github.io/2019/04/25/recipe/>`_
 - `Troubleshooting Deep Neural Networks - Josh Tobin <http://josh-tobin.com/troubleshooting-deep-neural-networks.html>`_
+- `37 Reasons why your Neural Network is not working - Slav Ivanov <https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607>`_
+- `CS231n: Convolutional Neural Networks for Visual Recognition <https://cs231n.github.io/neural-networks-3/>`_
+
 
 Hyperparameters
 ^^^^^^^^
@@ -50,13 +56,15 @@ Hyperparameters
 
 Optimizer
 ^^^^^^^^
-- `AdamW and Super-convergence is now the fastest way to train neural nets - fast.ai <- https://www.fast.ai/2018/07/02/adam-weight-decay/>`_
+- `AdamW and Super-convergence is now the fastest way to train neural nets - fast.ai <https://www.fast.ai/2018/07/02/adam-weight-decay/>`_
 - `Optimizerはどれが優れているか（ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNINGの紹介） - Akihiro FUJII <https://akichan-f.medium.com/optimizer%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8C%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-on-empirical-comparisons-of-optimizers-for-deep-learning%E3%81%AE%E7%B4%B9%E4%BB%8B-f843179e8a8d>`_
 
 Batch Normalization
 ^^^^^^^^
 
 - `Ordering of batch normalization and dropout? - stackoverflow <https://stackoverflow.com/a/62806906/15383706>`_
+    | 順番はBN → Dropoutにする（Dropout → BNだと学習と推論でBNに入力する値の分散が変わってしまい性能が悪化する）
+
 
 MLP (Multilayer Perceptron)
 ^^^^^^^^
@@ -67,10 +75,12 @@ MLP (Multilayer Perceptron)
     | "One hidden layer is sufficient for the large majority of problems."
     | "the optimal size of the hidden layer is usually between the size of the input and size of the output layers."
     | "The number of hidden neurons should be 2/3 the size of the input layer, plus the size of the output layer."
+    | "The number of hidden neurons should be less than twice the size of the input layer."
     | "the number of neurons in that layer is the mean of the neurons in the input and output layers."
 
 - `multi-layer perceptron (MLP) architecture: criteria for choosing number of hidden layers and size of the hidden layer? - Stack Overflow <https://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde/10568938#10568938>`_
 - `Number of nodes in hidden layers of neural network - Cross Validated <https://stats.stackexchange.com/questions/160887/number-of-nodes-in-hidden-layers-of-neural-network/160901#160901>`_
+
 
 PyTorch
 ^^^^^^^^
