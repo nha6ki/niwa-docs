@@ -60,6 +60,15 @@
 <li class="toctree-l3"><a class="reference internal" href="#multicollinearity">Multicollinearity</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">機械学習モデル作成の流れ</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id4">課題設定</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id5">データの確認</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id6">初期設定</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#i-e-reducing-bias">単純な方法から試す (i.e. reducing bias)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#i-e-reducing-variance">過学習する方法を試してから正則化を加える (i.e. reducing variance)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#references">References</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="deeplearning.html">Deep Learning</a></li>
@@ -231,6 +240,94 @@
 <h3>Multicollinearity<a class="headerlink" href="#multicollinearity" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance">regression - Multicollinearity and predictive performance - Cross Validated</a></p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="id3">
+<h2>機械学習モデル作成の流れ<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id4">
+<h3>課題設定<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt>入力による課題の分類</dt><dd><ul>
+<li><p>ラベルがあるなら教師あり学習</p></li>
+<li><p>ラベルがなく構造を見つけたいなら教師なし学習</p></li>
+<li><p>環境との相互作用で目的関数を最適化したいなら強化学習</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>出力による課題の分類</dt><dd><ul>
+<li><p>数値なら回帰</p></li>
+<li><p>クラスなら分類</p></li>
+<li><p>グループならクラスタリング</p></li>
+<li><p>異常の検出なら異常検出</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>ストレージの空き容量</p></li>
+<li><p>予測/学習にどのぐらいの時間を掛けられるか</p></li>
+<li><p>人間のベースラインを確認する</p></li>
+</ul>
+</div>
+<div class="section" id="id5">
+<h3>データの確認<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>要約統計量(パーセンタイル，平均値と中央値，相関関係)</p></li>
+<li><p>箱ヒゲ図で外れ値を確認，ヒストグラム，散布図</p></li>
+<li><p>欠損値, 外れ値の除去</p></li>
+</ul>
+</div>
+<div class="section" id="id6">
+<h3>初期設定<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>シード値の固定</p></li>
+<li><p>評価の有効数字</p></li>
+<li><p>初期化が正しくできているか確認する</p></li>
+<li><p>Train Lossが減少するか確認する</p></li>
+<li><p>入力に依存しないベースライン（すべての入力を0にしたパフォーマンス）を確認する</p></li>
+<li><p>少数サンプル（2つ？）に過学習するか確認する</p></li>
+</ul>
+</div>
+<div class="section" id="i-e-reducing-bias">
+<h3>単純な方法から試す (i.e. reducing bias)<a class="headerlink" href="#i-e-reducing-bias" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Data Augmentationをしない</p></li>
+<li><p>正則化をしない</p></li>
+<li><p>モデルのサイズを大きくする</p></li>
+<li><p>入力データの次元を大きくする</p></li>
+</ul>
+</div>
+<div class="section" id="i-e-reducing-variance">
+<h3>過学習する方法を試してから正則化を加える (i.e. reducing variance)<a class="headerlink" href="#i-e-reducing-variance" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Train Lossが過学習してから正則化を加える</dt><dd><ul>
+<li><p>Train Lossが十分に小さくならなければバグがあるかもしれない -&gt; とラブルシューティング&amp;デバッグ</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>1つずつ正則化を加えてフォーマンスを確認する</p></li>
+<li><p>Data Augmentation</p></li>
+<li><p>バッチサイズを小さくする（正則化が強くなる）</p></li>
+<li><p>ドロップアウト</p></li>
+<li><p>Weight Decay</p></li>
+<li><p>Early Stopping</p></li>
+<li><p>ハイパラチューニング</p></li>
+<li><p>入力データの次元を小さくする</p></li>
+<li><p>モデルのサイズを小さくする</p></li>
+<li><p>モデルアンサンブル</p></li>
+</ul>
+</div>
+<div class="section" id="references">
+<h3>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="http://karpathy.github.io/2019/04/25/recipe/">A Recipe for Training Neural Networks - Andrej Karpathy</a></p></li>
+<li><p><a class="reference external" href="http://josh-tobin.com/troubleshooting-deep-neural-networks.html">Troubleshooting Deep Neural Networks - Josh Tobin</a></p></li>
+<li><p><a class="reference external" href="https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f">Choosing the Right Machine Learning Algorithm - Rajat Harlalka</a></p></li>
 </ul>
 </div>
 </div>

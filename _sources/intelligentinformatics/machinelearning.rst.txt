@@ -71,3 +71,72 @@ Multicollinearity
 ^^^^^^^^
 
 - `regression - Multicollinearity and predictive performance - Cross Validated <https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance>`_
+
+
+
+機械学習モデル作成の流れ
+--------------
+
+課題設定
+^^^^^^^^
+
+- 入力による課題の分類
+    - ラベルがあるなら教師あり学習
+    - ラベルがなく構造を見つけたいなら教師なし学習
+    - 環境との相互作用で目的関数を最適化したいなら強化学習
+- 出力による課題の分類
+    - 数値なら回帰
+    - クラスなら分類
+    - グループならクラスタリング
+    - 異常の検出なら異常検出
+- ストレージの空き容量
+- 予測/学習にどのぐらいの時間を掛けられるか
+- 人間のベースラインを確認する
+
+データの確認
+^^^^^^^^
+
+- 要約統計量(パーセンタイル，平均値と中央値，相関関係)
+- 箱ヒゲ図で外れ値を確認，ヒストグラム，散布図
+- 欠損値, 外れ値の除去
+
+初期設定
+^^^^^^^^
+
+- シード値の固定
+- 評価の有効数字
+- 初期化が正しくできているか確認する
+- Train Lossが減少するか確認する
+- 入力に依存しないベースライン（すべての入力を0にしたパフォーマンス）を確認する
+- 少数サンプル（2つ？）に過学習するか確認する
+
+単純な方法から試す (i.e. reducing bias)
+^^^^^^^^
+
+- Data Augmentationをしない
+- 正則化をしない
+- モデルのサイズを大きくする
+- 入力データの次元を大きくする
+
+過学習する方法を試してから正則化を加える (i.e. reducing variance)
+^^^^^^^^
+
+- Train Lossが過学習してから正則化を加える
+    - Train Lossが十分に小さくならなければバグがあるかもしれない -> とラブルシューティング&デバッグ
+- 1つずつ正則化を加えてフォーマンスを確認する
+- Data Augmentation
+- バッチサイズを小さくする（正則化が強くなる）
+- ドロップアウト
+- Weight Decay
+- Early Stopping
+- ハイパラチューニング
+- 入力データの次元を小さくする
+- モデルのサイズを小さくする
+- モデルアンサンブル
+
+References
+^^^^^^^^
+
+- `A Recipe for Training Neural Networks - Andrej Karpathy <http://karpathy.github.io/2019/04/25/recipe/>`_
+- `Troubleshooting Deep Neural Networks - Josh Tobin <http://josh-tobin.com/troubleshooting-deep-neural-networks.html>`_
+- `Choosing the Right Machine Learning Algorithm - Rajat Harlalka <https://hackernoon.com/choosing-the-right-machine-learning-algorithm-68126944ce1f>`_
