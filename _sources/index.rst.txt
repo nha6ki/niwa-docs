@@ -102,6 +102,7 @@ Home
    :glob:
    :caption: Neuroscience
 
+   Neuroscience/ComputationalNeuroscience
    Neuroscience/Neuroaesthetics
 
 .. toctree::

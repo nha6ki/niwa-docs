@@ -17,4 +17,5 @@ GitHub
 Web Page
 --------------
 
+- `自然言語処理 -  言語処理学会  <https://www.jstage.jst.go.jp/browse/jnlp/-char/ja>`_
 - `自然言語処理の餅屋 -  山本和英 <https://www.jnlp.org/nlp/>`_

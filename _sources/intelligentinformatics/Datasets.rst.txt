@@ -1,6 +1,12 @@
 Datasets
 =================
 
+Book
+--------------
+
+- `Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O’Reilly Media, Inc.. <https://clauswilke.com/dataviz/>`_
+
+
 Mental Health
 --------------
 
