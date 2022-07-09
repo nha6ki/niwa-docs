@@ -168,6 +168,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `問題を科学的に解決する資質・能力の育成 - 菅原雄貴 <https://www.nier.go.jp/kaihatsu/shiteikou/pdf/h29_pri_rika_hirosaki-fusyo_2.pdf>`__
 -  `レポート作成の手引き - 金沢大学 <https://www.kanazawa-u.ac.jp/wp-content/uploads/2015/01/tebiki2.pdf>`__
 -  `要約文の書き方のコツとは？端的に情報を伝える方法を紹介 <https://www.career-rise.info/blog/inventory/>`__
+-  `書評とはなにか 書評を書くときの注意点とコツ <https://docoic.com/37626>`__
 -  独創はひらめかない - 金出武雄 [`Amazon <https://www.amazon.co.jp/dp/4532318416/ref=cm_sw_r_tw_dp_U_x_OsF0EbEEDGZET>`__]
 -  新 企業の研究者をめざす皆さんへ - 丸山宏 [`Amazon <https://www.amazon.co.jp/dp/4764906066/ref=cm_sw_r_tw_dp_U_x_AzF0EbQS3FCMX>`__]
 -  博士号だけでは不十分! - ピーター・J・ファイベルマン [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]

@@ -13,6 +13,7 @@ Tutorial
 - `CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020 <https://sites.google.com/view/berkeley-cs294-158-sp20/home>`_
 
 - `CS330: Deep Multi-Task and Meta Learning, Stanford | Fall 2019 <https://cs330.stanford.edu/>`_
+- `MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity, MIT | 2021 <https://ali-design.github.io/deepcreativity/>`_
 
 
 GitHub
