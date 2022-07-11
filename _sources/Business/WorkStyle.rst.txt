@@ -1,0 +1,6 @@
+Work Style
+=================
+
+- `働き方・休み方改善ポータルサイト - 厚生労働省 <https://work-holiday.mhlw.go.jp/>`__
+- `多様な働き方の実現応援サイト - 厚生労働省 <https://part-tanjikan.mhlw.go.jp/>`__
+- `治療と仕事の両立支援ナビ - 厚生労働省 <https://chiryoutoshigoto.mhlw.go.jp/>`__
