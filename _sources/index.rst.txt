@@ -125,6 +125,13 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Lifestyle
+
+   Lifestyle/Clothes
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
    :caption: Learn
 
    learn/website
