@@ -1,7 +1,13 @@
 Computational Neuroscience
 =================
 
+Tutorial
+--------------
+
+- `NeuroTechX <https://neurotechx.com/>`_
+- `Neuromatch Academy 2021 <https://compneuro.neuromatch.io/tutorials/intro.html>`_
+
 Web Page
 --------------
 
-- `Neuromatch Academy 2021 <https://compneuro.neuromatch.io/tutorials/intro.html>`_
+- `世界のニューロテックの概況とビジネス応用への道 - 和木勇人 <https://speakerdeck.com/wakkihaya/shi-jie-falseniyurotetukufalsegai-kuang-tobizinesuying-yong-hefalsedao>`_

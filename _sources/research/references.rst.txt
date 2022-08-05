@@ -83,7 +83,9 @@ Web上で閲覧できる資料などのまとめ.
 - 数学文章作法 応用編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/4480095268/ref=cm_sw_r_tw_dp_U_x_YyF0EbKJ01XC8>`__]
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
 - 図解でわかる! 理工系のためのよい文章の書き方 - 福地健太郎 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
+- 
 
+ 
 
 卒業論文
 ^^^^^^^^
@@ -158,6 +160,13 @@ Web上で閲覧できる資料などのまとめ.
 -  `CS PhD --help <https://phdadvice.carrd.co/>`__
 - 博士号のとり方 - エステール・M・フィリップス [`Amazon <https://www.amazon.co.jp/dp/4990455509/ref=cm_sw_r_tw_dp_U_x_QkF0EbKTJ3XNN>`__]
 
+学習の仕方
+--------------
+
+-  `生涯をかけて学び、変化し続けるために - 岡野原大輔 <https://logmi.jp/tech/articles/327015>`__
+-  `本来幸せであるはずの“学び”をなぜ苦痛に感じるのか？ - 岡野原大輔 <https://logmi.jp/tech/articles/327005>`__
+- あなたの勉強法はどこがいけないのか？ - 西林克彦 [`Amazon <https://www.amazon.co.jp/dp/B07MNPLMF3/ref=cm_sw_r_tw_dp_13AC1JZG58HG87FMTE3B>`__]
+
 その他
 ------
 
@@ -169,6 +178,8 @@ Web上で閲覧できる資料などのまとめ.
 -  `レポート作成の手引き - 金沢大学 <https://www.kanazawa-u.ac.jp/wp-content/uploads/2015/01/tebiki2.pdf>`__
 -  `要約文の書き方のコツとは？端的に情報を伝える方法を紹介 <https://www.career-rise.info/blog/inventory/>`__
 -  `書評とはなにか 書評を書くときの注意点とコツ <https://docoic.com/37626>`__
+-  `Blue skies research <https://www.definitions.net/definition/BLUE+SKIES+RESEARCH>`__
+
 -  独創はひらめかない - 金出武雄 [`Amazon <https://www.amazon.co.jp/dp/4532318416/ref=cm_sw_r_tw_dp_U_x_OsF0EbEEDGZET>`__]
 -  新 企業の研究者をめざす皆さんへ - 丸山宏 [`Amazon <https://www.amazon.co.jp/dp/4764906066/ref=cm_sw_r_tw_dp_U_x_AzF0EbQS3FCMX>`__]
 -  博士号だけでは不十分! - ピーター・J・ファイベルマン [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]
