@@ -1,0 +1,7 @@
+MarketResearch
+=================
+
+Web Page
+--------------
+
+- `各業界の動向 - 株式会社帝国データバンク <https://www.tdb.co.jp/report/industry/index.html>`__

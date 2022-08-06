@@ -83,9 +83,13 @@ Web上で閲覧できる資料などのまとめ.
 - 数学文章作法 応用編 - 結城浩 [`Amazon <https://www.amazon.co.jp/dp/4480095268/ref=cm_sw_r_tw_dp_U_x_YyF0EbKJ01XC8>`__]
 - 新版 論文の教室 - 戸田山和久 [`Amazon <https://www.amazon.co.jp/dp/4140911948/ref=cm_sw_r_tw_dp_U_x_PFF0EbNQBRW60>`__]
 - 図解でわかる! 理工系のためのよい文章の書き方 - 福地健太郎 [`Amazon <https://www.amazon.co.jp/dp/4798158895/ref=cm_sw_r_tw_dp_K26R9EBZWAHMF037JM34>`__]
-- 
+- 間違いだらけの英語科学論文 - 原田豊太郎 [`Amazon <https://www.amazon.co.jp/dp/4779217245/ref=cm_sw_r_tw_dp_9AJN3MKVX7ZX72ZYTJVG>`__]
+- 誰よりも、うまく書く - ウィリアム・ジンサー [`Amazon <https://www.amazon.co.jp/dp/B09QC24HJG/ref=cm_sw_r_tw_dp_S2JH1J4DWTT3NKRVQTQQ>`__]
+- 効果的な英語論文を書く - ジョン スウェイルズ [`Amazon <https://www.amazon.co.jp/dp/4469244171/ref=cm_sw_r_tw_dp_PCNHFQ8ZKYMXWBZB3YXG>`__]
+- ネイティブが教える 日本人研究者のための論文の書き方・アクセプト術 - エイドリアン・ウォールワーク [`Amazon <https://www.amazon.co.jp/dp/4065120446/ref=cm_sw_r_tw_dp_3FWZZZW4RNB2VBGQ3E2V>`__]
+- ネイティブが教える 日本人研究者のための英文レター・メール術 日常文書から査読対応まで - エイドリアン・ウォールワーク [`Amazon <https://www.amazon.co.jp/dp/4065239206/ref=cm_sw_r_tw_dp_X0VA23ER1552JPZGZHE5>`__]
+- 英文ビジネスライティング大全 - シャーリー・テイラー [`Amazon <https://www.amazon.co.jp/dp/4342000962/ref=cm_sw_r_tw_dp_M4E56ZDZFAZMGNPMDS65>`__]
 
- 
 
 卒業論文
 ^^^^^^^^
@@ -123,7 +127,6 @@ Web上で閲覧できる資料などのまとめ.
 -  `研究をはじめてから国際会議と学術論文に採択されるまで（WEB公開版） - 山本克彦 <https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban>`__
 -  `ハゲタカジャーナル - 奈良先端科学技術大学院大学 研究推進機構 研究推進部門 <https://www.naist.jp/kensui/information/predatory-journals.html>`__
 -  `Beall's List <https://beallslist.net/>`__
-
 
 進捗報告・プレゼンの仕方
 ------------------------

@@ -117,11 +117,13 @@ Home
    :glob:
    :caption: Business
 
-   Business/Interview
+   Business/CorporateResearch
+   Business/MarketResearch
    Business/Engineer
-   Business/RemoteWork
-   Business/WorkStyle
+   Business/Interview
    Business/Certification
+   Business/WorkStyle
+   Business/RemoteWork
 
 .. toctree::
    :maxdepth: 2
