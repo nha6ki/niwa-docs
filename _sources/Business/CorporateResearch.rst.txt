@@ -5,7 +5,7 @@ Web Page
 --------------
 
 - `ライトハウス - エン・ジャパン株式会社 <https://en-hyouban.com/>`__
-- `OpenWork - オープンワーク株式会社 https://www.vorkers.com/>`__
+- `OpenWork - オープンワーク株式会社 <https://www.vorkers.com/>`__
 - `しょくばらぼ - 厚生労働省 <https://shokuba.mhlw.go.jp/>`__
 - `ブラック企業大賞 <http://blackcorpaward.blogspot.com/>`__
 - `EDINET - 金融庁 <https://disclosure.edinet-fsa.go.jp/>`__

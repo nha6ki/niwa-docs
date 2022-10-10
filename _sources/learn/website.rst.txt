@@ -42,3 +42,4 @@ Others
 -  `知財図鑑 <https://chizaizukan.com/>`__
 -  `ニセ科学/疑似（似非）科学に関する有用情報へのリンク集 <https://icchou20.blog.fc2.com/blog-entry-828.html>`__
 -  `書籍横断検索システム <http://book.tsuhankensaku.com/hon/>`__
+-  `社会実情データ図録 - 本川裕 <https://honkawa2.sakura.ne.jp/>`__

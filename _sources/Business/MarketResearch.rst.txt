@@ -5,3 +5,5 @@ Web Page
 --------------
 
 - `各業界の動向 - 株式会社帝国データバンク <https://www.tdb.co.jp/report/industry/index.html>`__
+- `市場規模マップ - visualizing.info <https://stat.visualizing.info/msm>`__
+- `What does Japan export? (2020) - OEC <https://oec.world/en/visualize/tree_map/hs92/export/jpn/all/show/2020/>`__

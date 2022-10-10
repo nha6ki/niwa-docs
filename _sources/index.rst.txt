@@ -93,13 +93,6 @@ Home
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Medical Informatics
-
-   MedicalInformatics/Certification
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
    :caption: Neuroscience
 
    Neuroscience/ComputationalNeuroscience
@@ -131,6 +124,7 @@ Home
    :caption: Lifestyle
 
    Lifestyle/Clothes
+   Lifestyle/Property
 
 .. toctree::
    :maxdepth: 2

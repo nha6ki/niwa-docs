@@ -1,7 +1,8 @@
-Engineer
+Certification
 =================
 
 Web Page
 --------------
 
-- `CPA Learning - CPAエクセレントパートナーズ株式会社 <https://www.cpa-learning.com/>`_
+-  `医療情報技師試験対策wiki. <https://iryoujyouhou.wiki.fc2.com/>`__
+-  `CPA Learning - CPAエクセレントパートナーズ株式会社 <https://www.cpa-learning.com/>`_
