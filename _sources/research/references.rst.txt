@@ -11,6 +11,13 @@ Web上で閲覧できる資料などのまとめ.
 -  `何をやったらいいかを迷う4年生のためのロボット分野の研究の進め方 - 株式会社アールティ <https://www.rt-shop.jp/blog/wp-content/uploads/2020/08/fe5ef1f2ccfb4c5c1afb922270a0c920.pdf>`__
 - なぜあなたの研究は進まないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4826901798/ref=cm_sw_r_tw_dp_U_x_gAF0Eb950B5BB>`__]
 
+研究倫理
+^^^^^^^^
+
+-  `科学の健全な発展のために - 日本学術振興会 <https://www.jsps.go.jp/j-kousei/rinri.html>`__
+-  `「倫理の空白」理工学研究室 - JST <https://www.jst.go.jp/kousei_p/measuretutorial/mt_movie.html#mt_movie_gapinethics>`__
+-  `国内大学の教材・取組 - JST <https://www.jst.go.jp/kousei_p/measuretutorial/mt_domestic_univ.html>`__
+
 再現性
 ^^^^^^^^
 
@@ -33,6 +40,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `AHC-Lab M1勉強会 論文の読み方・書き方 - 品川政太朗 <https://www.slideshare.net/ShinagawaSeitaro/ahclab-m1>`__
 -  `機械学習界隈の情報収集方法 - Hidekazu Oiwa <https://kisa12012.hatenadiary.org/entry/20131215/1387082769>`__
 -  `個人的Surveyのやり方 - mocobt <https://mocobt.hatenablog.com/entry/2020/05/13/021133>`__
+-  `矢谷流論文の読み方 - 矢谷浩司 <https://iis-lab.org/misc/paperreading/>`__
 -  `How to Read a Paper - S. Keshav <https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf>`__
 -  `Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) <http://www.prisma-statement.org/>`__
 
@@ -56,6 +64,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `おもしろい研究テーマの見つけ方 - 科研費.com <https://xn--w8yz0bc56a.com/finding-interesting-theme-2/>`__
 -  `アイデアを出す正攻法6選とアイデアに困った時の奥の手3選 - Dropbox Business <https://navi.dropbox.jp/idea>`__
 -  `役にたちインパクトのある実世界AIを - 金出武雄 <https://ibisml.org/ibis2018/files/2018/11/kanade.pdf>`__
+-  `矢谷流研究アイデアチェックリスト - 矢谷浩司 <https://iis-lab.org/misc/realitycheck/>`__
 
 研究計画の書き方
 ----------------
@@ -138,6 +147,8 @@ Web上で閲覧できる資料などのまとめ.
 -  `発表スライドについての基本的なルール - 田崎晴明 <https://www.gakushuin.ac.jp/~881791/presentation/slide.html>`__
 -  `大輪講での発表について - 田崎晴明 <https://www.gakushuin.ac.jp/~881791/presentation.html>`__
 -  `質問の方法 - 加納学 <https://go.shr.lc/2KQPTOF>`__
+-  `質問するときには - Python.jp <https://www.python.jp/discord/question.html>`__
+-  `技術系メーリングリストで質問するときのパターン・ランゲージ - 結城浩 <https://www.hyuki.com/writing/techask.html>`__
 - なぜあなたの発表は伝わらないのか? - 佐藤雅昭 [`Amazon <https://www.amazon.co.jp/dp/4779219310/ref=cm_sw_r_tw_dp_U_x_7fF0EbZGG778K>`__]
 
 研究室の選び方
@@ -160,6 +171,7 @@ Web上で閲覧できる資料などのまとめ.
 -  `学生さんの能力の把握 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-3.html>`__ 
 -  `研究指導に困る人への対策 - 川添貴章 <https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision0-4.html>`__ 
 -  `強い松尾ぐみのために：研究の指導とステップアップ - 松尾豊 <http://ymatsuo.com/old2/matsuogumi_how_to_research.htm>`__ 
+-  `理工系大学・高専の研究室不登校 - 川西利昌 <https://www.jstage.jst.go.jp/article/jsee/65/5/65_5_2/_pdf/-char/ja>`__ 
 -  `CS PhD --help <https://phdadvice.carrd.co/>`__
 - 博士号のとり方 - エステール・M・フィリップス [`Amazon <https://www.amazon.co.jp/dp/4990455509/ref=cm_sw_r_tw_dp_U_x_QkF0EbKTJ3XNN>`__]
 

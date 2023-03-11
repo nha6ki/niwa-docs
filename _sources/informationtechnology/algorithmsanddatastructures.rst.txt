@@ -13,3 +13,8 @@ Web Page
 --------------
 
 - `Algorithm Visualizer <https://algorithm-visualizer.org/>`__
+
+Tutorial
+--------------
+
+- `CS50 for Japanese: コンピュータサイエンスの入門 - 株式会社CODEGYM <https://cs50.jp/>`_
